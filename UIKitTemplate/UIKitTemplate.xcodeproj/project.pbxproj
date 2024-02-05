@@ -13,6 +13,7 @@
 		573312B12B719E5700092647 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 573312AF2B719E5700092647 /* Main.storyboard */; };
 		573312B32B719E5800092647 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 573312B22B719E5800092647 /* Assets.xcassets */; };
 		573312B62B719E5800092647 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 573312B42B719E5800092647 /* LaunchScreen.storyboard */; };
+		573312BE2B71A7AC00092647 /* ViewController2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 573312BD2B71A7AC00092647 /* ViewController2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		573312B22B719E5800092647 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		573312B52B719E5800092647 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		573312B72B719E5800092647 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		573312BD2B71A7AC00092647 /* ViewController2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				573312A92B719E5700092647 /* AppDelegate.swift */,
 				573312AB2B719E5700092647 /* SceneDelegate.swift */,
 				573312AD2B719E5700092647 /* ViewController.swift */,
+				573312BD2B71A7AC00092647 /* ViewController2ViewController.swift */,
 				573312AF2B719E5700092647 /* Main.storyboard */,
 				573312B22B719E5800092647 /* Assets.xcassets */,
 				573312B42B719E5800092647 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				573312AE2B719E5700092647 /* ViewController.swift in Sources */,
 				573312AA2B719E5700092647 /* AppDelegate.swift in Sources */,
+				573312BE2B71A7AC00092647 /* ViewController2ViewController.swift in Sources */,
 				573312AC2B719E5700092647 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
